@@ -1,7 +1,7 @@
 name: Murph Beta v1.0
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6977810862008482
+typography_spectrum: 0.34133
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9488166158553213
+  brandStrength: 1
   lightness: 0.1778973473701626
   saturation: 0.5629865305963904
   rhythmicContrast: 0.45254363492131233
