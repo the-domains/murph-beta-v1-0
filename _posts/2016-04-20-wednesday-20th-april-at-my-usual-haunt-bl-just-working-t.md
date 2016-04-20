@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wednesday 20th April, at my usual haunt, (BL) just working through how the Grid works :)'
-datePublished: '2016-04-20T13:30:45.097Z'
-dateModified: '2016-04-20T13:30:44.457Z'
+datePublished: '2016-04-20T13:46:01.510Z'
+dateModified: '2016-04-20T13:35:00.739Z'
 title: ''
 author: []
 authors: []
