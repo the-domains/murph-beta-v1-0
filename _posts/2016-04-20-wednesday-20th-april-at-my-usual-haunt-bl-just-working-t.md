@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wednesday 20th April, at my usual haunt, (BL) just working through how the Grid works :)'
-datePublished: '2016-04-20T13:50:51.935Z'
-dateModified: '2016-04-20T13:50:35.387Z'
+datePublished: '2016-04-20T13:51:21.734Z'
+dateModified: '2016-04-20T13:50:58.788Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-wednesday-20th-april-at-my-usual-haunt-bl-just-working-t.md
@@ -25,9 +25,6 @@ _type: Article
 Wednesday 20th April, at my usual haunt, (BL) just working through how the Grid works :)
 
 Here are a few links to some of my activities: [http://lifetheuniverseandeverything.org.uk][0][https://www.tumblr.com/blog/brianhmurray][1]
-
-  
-
 
 [0]: http://lifetheuniverseandeverything.org.uk/
 [1]: https://www.tumblr.com/blog/brianhmurray
